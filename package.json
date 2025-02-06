@@ -16,5 +16,8 @@
     "url": "https://github.com/just435lin/BestBuyTracker/issues"
   },
   "homepage": "https://github.com/just435lin/BestBuyTracker#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "puppeteer": "^24.1.1"
+  }
 }
